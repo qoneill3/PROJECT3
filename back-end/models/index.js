@@ -1,0 +1,1 @@
+let sequelize = new Sequelize(process.env.DATABASE_URL || 'postgres://quinnoneill@localhost:5432/sleepy-reef-21869');
